@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1373980821:AAHOb3KIM0Eaoy79clMxCnKJWPJCSX2H0RU"
+    APP_ID = "979664"
+    API_HASH = "5d67b741883a65de8c036cc44a369891"
+    DATABASE_URL = "postgres://uykdugjuvgzgzy:4134b77b5f0a543f0400a88dd7969a29f35dc79f881e99d0353b04951a713cca@ec2-54-82-208-124.compute-1.amazonaws.com:5432/dbqes1vf06mn29"
+    SUDO_USERS = "1268705623" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/cjdrivebot"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
